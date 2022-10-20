@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:wuyiying2018@sina.com
+    - icon: fa-github fa-lg
+      href: http://github.com/wuyiying2018/
+output:
+  html_document:
+    theme: cerulean
