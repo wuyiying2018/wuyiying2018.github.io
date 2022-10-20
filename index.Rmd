@@ -1,15 +1,29 @@
 ---
-title: "My awesome website"
+title: "This is a test for My website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
+# website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 I’d use [google](https://google.cn)
 
 [about](about.html)
+
+
+##    subtitle
+
+```{r}
+rnorm(100)
+```
+
+##    subtitle
+
+$$J\alpha(x) = \sum{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}$$
+
+
+
