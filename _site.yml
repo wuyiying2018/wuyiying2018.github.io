@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "Yiying Wu"
 output_dir: "."
 navbar:
   title: "Home"
@@ -7,8 +7,11 @@ navbar:
       href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:wuyiying2018@sina.com
+    - icon: fa-brands fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yiying-wu-9a0bab251/
     - icon: fa-github fa-lg
       href: http://github.com/wuyiying2018/
 output:
   html_document:
-    theme: flatly
+    theme: lumen
+    css: styles.css
