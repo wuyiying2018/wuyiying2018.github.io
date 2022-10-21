@@ -1,5 +1,7 @@
 ---
 title: "Yiying Wu"
+output: 
+  html_document
 ---
 
 ####   First-year student in MPH Biostatistics <br>
@@ -7,28 +9,38 @@ title: "Yiying Wu"
 
 <br>
 <center>
-![](images/wyy2.jpg){width=30%}
+![](images/wyy.pic.jpg){width=70%}
 </center>
 <br>
 
-# website
+I've obtained a BS in Statistics from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2022, and now I am studying for a MPH in Biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics). 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+<br>
 
-I’d use [google](https://google.cn)
+#### Know more about me
 
-[about](about.html)
+Check out more about my experience in the [Experience](experience.html) page
+
+Here's my [Github repository](http://github.com/wuyiying2018/).
+
+Connect with me through [Linkedin](https://www.linkedin.com/in/yiying-wu-9a0bab251/).
+
+<br>
+
+#### Contact Information
+
+[Department of Biostatistics](http://www.mailman.columbia.edu/academic-departments/biostatistics)  
+[Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/)  
+100 Haven Ave
+<br>
+New York, New York 10032  
 
 
-##    subtitle
+Email: [yw3996@cumc.columbia.edu](mailto:yw3996@cumc.columbia.edu)  
 
-```{r}
-rnorm(100)
-```
 
-##    subtitle
 
-$$J\alpha(x) = \sum{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}$$
+
 
 
 
