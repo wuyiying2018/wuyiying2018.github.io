@@ -4,7 +4,8 @@ output:
   html_document
 ---
 
-####   First-year student in MPH Biostatistics <br>
+####   she/her
+####   Second-year student in MPH Biostatistics <br>
 ####   Columbia University, Mailman School of Public Health
 
 <br>

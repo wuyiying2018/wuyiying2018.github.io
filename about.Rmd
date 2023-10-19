@@ -6,7 +6,8 @@ output:
     toc_float: true
 ---
 
-# title-to be edited
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+# Github repository
+Here's the [github repository link](https://github.com/wuyiying2018/wuyiying2018.github.io) for this website
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+# Update
+This page is last updated in 10/19/2023.
