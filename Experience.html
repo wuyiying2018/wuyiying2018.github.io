@@ -11,7 +11,7 @@
 
 
 
-<title>Yiying Wu</title>
+<title>Yiying (Emma) Wu</title>
 
 <script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -222,6 +225,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -229,6 +295,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -289,58 +365,111 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Yiying Wu</h1>
+<h1 class="title toc-ignore">Yiying (Emma) Wu</h1>
 
 </div>
 
 
-<div id="sheher" class="section level4">
-<h4>she/her</h4>
-</div>
-<div id="second-year-student-in-mph-biostatistics"
-class="section level4">
-<h4>Second-year student in MPH Biostatistics <br></h4>
-</div>
-<div id="columbia-university-mailman-school-of-public-health"
-class="section level4">
-<h4>Columbia University, Mailman School of Public Health</h4>
-<br>
-<center>
-<img src="images/wyy.pic.jpg" style="width:70.0%" />
-</center>
+<p><link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p><br></p>
-<p>I’ve obtained a BS in Statistics from <a
-href="https://english.sufe.edu.cn/">Shanghai University of Finance and
-Economics</a> in 2022, and now I am studying for a MPH in Biostatistics
-from <a
-href="https://www.mailman.columbia.edu/become-student/departments/biostatistics">Columbia
-University</a>.</p>
-<p><br></p>
+<div id="education" class="section level3">
+<h3>EDUCATION</h3>
+<p><strong>Columbia University - Mailman School of Public
+Health</strong> <span style="float:right"><em>09/2022 - 06/2024
+(Expected)</em></span><br />
+Master of Public Health in Biostatistics, Certificate in Comparative
+Effectiveness Outcomes Research</p>
+<p>Relevant Coursework: Applied Regression, Data Science, Analysis of
+Health Survey Data, Database(MySQL)</p>
+<p><strong>Shanghai University of Finance and Economics (SUFE) - School
+of Statistics and Management</strong> <span
+style="float:right"><em>09/2018 - 07/2022</em></span> Bachelor of
+Science in Statistics</p>
+<p>Relevant Coursework: Real Analysis, Time Series, Survival Analysis,
+Machine Learning, Stochastic Processes</p>
+<p>Honor: First Prize for The 5th Mathematical Modeling Competition of
+SUFE (Top 1%, 04/2019)</p>
+<p>Certification: SUFE-Cambridge Leadership Online Programme
+(07/2020)</p>
 </div>
-<div id="know-more-about-me" class="section level4">
-<h4>Know more about me</h4>
-<p>Check out more about my experience in my <a
-href="./resources/Yiying-cv1.pdf">CV</a></p>
-<p>Here’s my <a href="http://github.com/wuyiying2018/">Github
-repository</a>.</p>
-<p>Connect with me through <a
-href="https://www.linkedin.com/in/yiying-wu-9a0bab251/">Linkedin</a>.</p>
-<p><br></p>
+<div id="professional-experience" class="section level3">
+<h3>PROFESSIONAL EXPERIENCE</h3>
+<p><strong>Wellness Equity Alliance | Data Analyst Intern</strong>,
+California, United States <span style="float:right"><em>07/2023 -
+Present</em></span></p>
+<ul>
+<li>Assisted in constructing the public health system for Vernon,
+California, and neighboring regions through demographic data
+analysis</li>
+<li>Used Google Earth (GIS) to display demographic data, mental health
+services, and food security resources</li>
+</ul>
+<p><strong>Microsoft China, Microsoft AI and IoT Insider Lab | AI
+Analyst Intern</strong>, Shanghai, China <span
+style="float:right"><em>06/2021 - 08/2021</em></span></p>
+<ul>
+<li>Tested the Microsoft Azure cloud product
+“deep-voice-conversion-master” by converting audio text data into target
+text with a Convolutional Neural Network on a Linux system</li>
+<li>Wrote code in Python to convert the target text into the specified
+format in batch</li>
+</ul>
+<p><strong>Hwabao Securities | Investment Analyst Intern</strong>,
+Shanghai, China <span style="float:right"><em>06/2020 -
+08/2020</em></span></p>
+<ul>
+<li>Examined historical and current market supply and demand of the
+pharmaceutical industry</li>
+<li>Conducted statistical description/regression analysis to predict the
+risk of overseas investment and surplus capacity</li>
+</ul>
 </div>
-<div id="contact-information" class="section level4">
-<h4>Contact Information</h4>
-<p><a
-href="http://www.mailman.columbia.edu/academic-departments/biostatistics">Department
-of Biostatistics</a><br />
-<a href="http://www.mailman.columbia.edu/">Columbia Mailman School of
-Public Health</a><br />
-100 Haven Ave <br> New York, New York 10032</p>
-<p>Email: <a
-href="mailto:yw3996@cumc.columbia.edu">yw3996@cumc.columbia.edu</a></p>
+<div id="project-experience" class="section level3">
+<h3>PROJECT EXPERIENCE</h3>
+<p><strong>Predicting Methylation from Sequence and Gene Expression
+Using Deep Learning Methods | Research Assistant</strong>, New York,
+United States <span style="float:right"><em>06/2023 -
+present</em></span></p>
+<ul>
+<li>Developed deep learning models that can accurately predict DNA
+methylation patterns based on genomic sequence and gene expression
+data</li>
+<li>Utilized Python and Columbia University’s research computing
+resources to test, evaluate, and refine deep learning models, ensuring
+optimal performance and reliability</li>
+</ul>
+<p><strong>Research on Cluster Analysis of E-commerce customers based on
+RFM model | Undergraduate Researcher</strong>, Shanghai, China <span
+style="float:right"><em>03/2022 - 05/2022</em></span></p>
+<ul>
+<li>Drew word clouds about the most frequent words in the product
+description and brand column using the R package wordcloud2, to have a
+brief knowledge of the dataset</li>
+<li>Constructed a Recency, Frequency, and Monetary model (RFM) based on
+the data collected, and analyzed the model using the K-means
+algorithm</li>
+<li>Analyzed the groups of customer data after segmentation, and
+predicted their behavior in the future</li>
+</ul>
+<p><strong>Prospects and Challenges of “Internet+” for Community
+Healthcare in Shanghai | Undergraduate Researcher</strong>, Shanghai,
+China <span style="float:right"><em>06/2021 - 08/2021</em></span></p>
+<ul>
+<li>Developed a questionnaire based on the Technology Acceptance Model
+(TAM) to investigate the acceptance of “Internet+” community healthcare
+by Shanghai residents</li>
+<li>Constructed a Structural Equation Model (SEM) of Shanghai residents’
+satisfaction with “Internet Community Clinic Services” using the TAM,
+and Analyzed the model using Partial Least Squares (PLS) written in
+R</li>
+</ul>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -373,6 +502,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

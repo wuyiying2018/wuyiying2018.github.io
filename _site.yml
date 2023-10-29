@@ -2,6 +2,9 @@ name: "Yiying Wu"
 output_dir: "."
 navbar:
   title: "Home"
+  left:
+    - text: 'Experience'
+      href: experience.html
   right:
     - text: "NYC Restaurants Inspection Analysis Dashboard"
       href: NYC-Restaurants-Inspection-Analysis-Dashboard.html
