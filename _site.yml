@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "NYC Restaurants Inspection Analysis Dashboard"
+      href: NYC-Restaurants-Inspection-Analysis-Dashboard.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
