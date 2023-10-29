@@ -7,8 +7,8 @@ output:
     navbar:
       - { title: "Home", href: index.html, align: right }
       - { icon: fa-envelope, href: mailto:yw3996@cumc.columbia.edu, align: right }
-      - { icon: fa-github, href: "https://www.linkedin.com/in/yiying-wu-9a0bab251/", align: right }
-      - { icon: fa-linkedin, href: "http://github.com/wuyiying2018/", align: right }
+      - { icon: fa-github, href: "http://github.com/wuyiying2018/", align: right }
+      - { icon: fa-linkedin, href: "https://www.linkedin.com/in/yiying-wu-9a0bab251/", align: right }
     source: embed
     theme: lumen
 ---
