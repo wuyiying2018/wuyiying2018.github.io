@@ -10,7 +10,7 @@ output:
       - { icon: fa-github, href: "https://www.linkedin.com/in/yiying-wu-9a0bab251/", align: right }
       - { icon: fa-linkedin, href: "http://github.com/wuyiying2018/", align: right }
     source: embed
-    theme: cosmo
+    theme: lumen
 ---
 
 ```{r setup, include=FALSE, echo = FALSE}
