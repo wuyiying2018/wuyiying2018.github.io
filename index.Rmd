@@ -1,5 +1,5 @@
 ---
-title: "Yiying Wu"
+title: "Yiying (Emma) Wu"
 output: 
   html_document
 ---
@@ -20,7 +20,7 @@ I've obtained a BS in Statistics from [Shanghai University of Finance and Econom
 
 #### Know more about me
 
-Check out more about my experience in my [CV](./resources/Yiying-cv1.pdf)
+Check out more about my experience in my [CV](Experience.html)
 
 Here's my [Github repository](http://github.com/wuyiying2018/).
 

@@ -49,6 +49,19 @@ Certification: SUFE-Cambridge Leadership Online Programme (07/2020)
 * Developed deep learning models that can accurately predict DNA methylation patterns based on genomic sequence and gene expression data
 *	Utilized Python and Columbia University’s research computing resources to test, evaluate, and refine deep learning models, ensuring optimal performance and reliability
 
+**Trends in Hypertension Control and Management Disparities in U.S. Adults: A NHANES Analysis from 1999-2020 | Graduate Researcher | [Report](./resources/ENAR2024_Project_report.pdf) | [GitHub](https://github.com/wuyiying2018/ENAR-DataFest) | [Video](https://www.youtube.com/watch?v=B0P4ieC4JbQ)**, New York,  United States [*12/2023 - 1/2024*]{style="float:right"}
+
+* Utilized National Health and Nutrition Examination Survey (NHANES) data spanning 1999-2020 to investigate trends in stage 2 hypertension management among U.S. adults.
+* Examined prevalence, awareness, and medication use related to hypertension, incorporating demographic factors and comorbidities as covariates in logistic regression models.
+* Employed multiple imputation techniques to address missing data and adjusted for survey cycle weights.
+
+
+**Analysis of Homelessness Crisis in California | Graduate Researcher | [Website](https://yuqingliu6.github.io/california_homelessness.io/index.html) | [GitHub](https://github.com/yuqingliu6/california_homelessness.io)**, New York,  United States [*10/2023 - 12/2023*]{style="float:right"}
+
+* Analyzed two key datasets: the first capturing hospital encounters of California's homeless from 2019-2020, and the second providing demographic insights into those accessing homeless services from 2017-2023, to decipher trends in homelessness and healthcare utilization.
+* Utilized Exploratory Data Analysis (EDA) and a Shiny App to identify demographic trends in California's homelessness services
+* Applied the Yeo-Johnson transformation to linear regression data to enhance normality
+
 **Research on Cluster Analysis of E-commerce customers based on RFM model | Undergraduate Researcher**, Shanghai, China [*03/2022 - 05/2022*]{style="float:right"}
 
 * Drew word clouds about the most frequent words in the product description and brand column using the R package wordcloud2, to have a brief knowledge of the dataset
@@ -59,3 +72,23 @@ Certification: SUFE-Cambridge Leadership Online Programme (07/2020)
 
 * Developed a questionnaire based on the Technology Acceptance Model (TAM) to investigate the acceptance of “Internet+” community healthcare by Shanghai residents
 * Constructed a Structural Equation Model (SEM) of Shanghai residents' satisfaction with "Internet Community Clinic Services" using the TAM, and Analyzed the model using Partial Least Squares (PLS) written in R
+
+**A Study of the Existing Machine Learning Models on Reading Comprehension | Undergraduate Researcher**, Shanghai, China [*06/2021 – 08/2021*]{style="float:right"}
+
+* Conduct a literature review of current NLP methods 
+* Leveraged external knowledge-enhanced models to speedily eliminate potential scenarios that are inconsistent with common sense, thereby dramatically reducing computational effort and improving efficiency
+* Proposed an interpretable three-module multi-hop reading comprehension system, EPAr, which constructed an inference tree, proposed a single response candidate for each root-to-leaf chain, and consolidated key information from all inference chains for the prediction
+                                                                                            
+**Machine Learning or Regression? A Study of the Customer Satisfaction Based on Clinical Survey Data | Undergraduate Researcher**,  Shanghai, China [*01/2021 – 03/2021*]{style="float:right"}
+
+* Constructed the Logistic/Probit regression model, decision tree model, random forest model, Catboost model, and
+XGboost model to evaluate the factors affecting customer satisfaction with clinical services
+* Compared the competitive advantages of Machine Learning models relative to traditional models, and concluded that Gender, Type of Disease, Online Support, Ease of Online Diagnose, and Effect of Diagnose are the main factors that affect patients’ satisfaction
+
+
+**A Study on the Healthcare Service of Residents in Chongming District | Independent Team Leader**, Shanghai, China [*10/2020 – 12/2020 *]{style="float:right"}
+
+* Led a team of 3 that conducted a field survey of 120 households to study the healthcare service of local residents
+using STATA to perform descriptive analysis and statistical inference
+* Mapped the relationship between healthcare coverage, the size of the community, and the average age of the community
+* Analyzed the status and deficiencies of rural healthcare, and provided suggestions and solutions for policymakers to improve rural healthcare based on the analysis results
