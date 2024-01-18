@@ -5,9 +5,17 @@ navbar:
   left:
     - text: "Experience"
       href: Experience.html
+    - text: Demo
+      menu:
+      - text: "Data Visualization: NYC Restaurants Inspection Analysis Dashboard"
+        href: NYC-Restaurants-Inspection-Analysis-Dashboard.html
+      - text: "Survey Analysis: Trends in Hypertension Control and Management Disparities in U.S. Adults"
+        href: ./resources/ENAR2024_Project_report.pdf
+      - text: "SAS Coding & RCT: Comparing Weight Loss Outcomes of Bariatric Surgery and Non-Surgical Therapy for Obesity"
+        href: ./resources/rct.pdf
+      - text: "Website: Analysis of Homelessness Crisis in California"
+        href: https://yuqingliu6.github.io/california_homelessness.io/index.html
   right:
-    - text: "NYC Restaurants Inspection Analysis Dashboard"
-      href: NYC-Restaurants-Inspection-Analysis-Dashboard.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
