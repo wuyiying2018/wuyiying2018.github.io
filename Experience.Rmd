@@ -12,13 +12,16 @@ output:
 <br>
 
 ### EDUCATION    
-**Columbia University - Mailman School of Public Health**  [*09/2022 - 06/2024 (Expected)*]{style="float:right"}              
+**Columbia University - Mailman School of Public Health**  [*09/2022 - 05/2024 (Expected)*]{style="float:right"}              
 Master of Public Health in Biostatistics, Certificate in Comparative Effectiveness Outcomes Research
 
 Relevant Coursework: Applied Regression, Data Science, Analysis of Health Survey Data, Database(MySQL)
 
+Honor: [Finalist for DataFest 2024](./resources/DataFest Award Certificates 2024 FINAL - Wu.pdf) (Top 4, Presented at the ENAR Spring Meeting in Baltimore, Maryland, 03/2024)
+
 **Shanghai University of Finance and Economics (SUFE) - School of Statistics and Management**
 [*09/2018 - 07/2022*]{style="float:right"}
+
 Bachelor of Science in Statistics
 
 Relevant Coursework:  Real Analysis, Time Series, Survival Analysis, Machine Learning, Stochastic Processes
