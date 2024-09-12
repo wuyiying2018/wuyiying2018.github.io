@@ -19,7 +19,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:yw3996@cumc.columbia.edu
+      href: mailto:Yiying.Wu@uth.tmc.edu
     - icon: fa-address-book fa-lg
       href: ./resources/CV.pdf
     - icon: fa-brands fa-linkedin fa-lg

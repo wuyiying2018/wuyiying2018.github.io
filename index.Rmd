@@ -5,8 +5,8 @@ output:
 ---
 
 ####   she/her
-####   Second-year student in MPH Biostatistics <br>
-####   Columbia University, Mailman School of Public Health
+####   First-year student in PhD. Biostatistics <br>
+####   UTHealth Houston, School of Public Health
 
 <br>
 <center>
@@ -14,7 +14,7 @@ output:
 </center>
 <br>
 
-I've obtained a BS in Statistics from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/) in 2022, and now I am studying for a MPH in Biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics). 
+I've obtained a MPH in Biostatistics from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), and a BS in Statistics from [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/). 
 
 <br>
 
@@ -34,10 +34,10 @@ Connect with me through [Linkedin](https://www.linkedin.com/in/yiying-wu-9a0bab2
 [Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/)  
 100 Haven Ave
 <br>
-New York, New York 10032  
+New York, New York, 10032  
 
 
-Email: [yw3996@cumc.columbia.edu](mailto:yw3996@cumc.columbia.edu)  
+Email: [Yiying.Wu@uth.tmc.edu](mailto:Yiying.Wu@uth.tmc.edu)  
 
 
 
