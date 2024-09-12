@@ -33,7 +33,7 @@ Honor: First Prize for The 5th Mathematical Modeling Competition of SUFE (Top 1%
 Certification: SUFE-Cambridge Leadership Online Programme (07/2020)
 
 ### PROFESSIONAL EXPERIENCE
-**Wellness Equity Alliance | Data Analyst Intern**, California, United States  [*07/2023 - Present*]{style="float:right"}
+**Wellness Equity Alliance | Data Analyst Intern**, California, United States  [*07/2023 - 09/2023*]{style="float:right"}
 
 * Assisted in constructing the public health system for Vernon, California, and neighboring regions through demographic data analysis
 * Used Google Earth (GIS) to display demographic data, mental health services, and food security resources
@@ -49,7 +49,7 @@ Certification: SUFE-Cambridge Leadership Online Programme (07/2020)
 * Conducted statistical description/regression analysis to predict the risk of overseas investment and surplus capacity
 
 ### PROJECT EXPERIENCE
-**Predicting Methylation from Sequence and Gene Expression Using Deep Learning Methods | Research Assistant**, New York,  United States [*06/2023 - present*]{style="float:right"}
+**Predicting Methylation from Sequence and Gene Expression Using Deep Learning Methods | Research Assistant**, New York,  United States [*06/2023 - 05/2024*]{style="float:right"}
 
 * Developed deep learning models that can accurately predict DNA methylation patterns based on genomic sequence and gene expression data
 *	Utilized Python and Columbia University’s research computing resources to test, evaluate, and refine deep learning models, ensuring optimal performance and reliability
