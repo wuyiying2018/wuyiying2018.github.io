@@ -5,7 +5,7 @@ output:
 ---
 
 ####   she/her
-####   First-year student in PhD. Biostatistics <br>
+####   Second-year student in PhD. Biostatistics <br>
 ####   UTHealth Houston, School of Public Health
 
 <br>

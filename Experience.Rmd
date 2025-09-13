@@ -12,12 +12,18 @@ output:
 <br>
 
 ### EDUCATION    
+**The University of Texas Health Science Center at Houston, School of Public Health**   [*08/2024 – Present*]{style="float:right"}   
+Doctor of Philosophy in Biostatistics                                                                                                       
+Passed Preliminary Exam (08/2025)
+
+Relevant Coursework: Survival Analysis, Statistical Computing, Statistical Inference, Multivariate Analysis, Stochastic Processes
+
 **Columbia University - Mailman School of Public Health**  [*09/2022 - 05/2024*]{style="float:right"}              
 Master of Public Health in Biostatistics, Certificate in Comparative Effectiveness Outcomes Research
 
 Relevant Coursework: Applied Regression, Data Science, Analysis of Health Survey Data, Database(MySQL)
 
-Honor: [Finalist for DataFest 2024](./resources/DataFest Award Certificates 2024 FINAL - Wu.pdf) (Top 4, Presented at the ENAR Spring Meeting in Baltimore, Maryland, 03/2024),
+Honor: [Finalist for DataFest 2024](./resources/DataFest Award Certificates 2024 FINAL - Wu.pdf) (Top 4, Oral presentation at the ENAR Spring Meeting in Baltimore, Maryland, 03/2024),
 
 [Delta Omega Honorary Society in Public Health](https://bcert.me/bc/html/show-badge.html?b=sorpqmkc) (07/2024)
 
@@ -49,19 +55,34 @@ Certification: SUFE-Cambridge Leadership Online Programme (07/2020)
 * Conducted statistical description/regression analysis to predict the risk of overseas investment and surplus capacity
 
 ### PROJECT EXPERIENCE
-**Predicting Methylation from Sequence and Gene Expression Using Deep Learning Methods | Research Assistant**, New York,  United States [*06/2023 - 05/2024*]{style="float:right"}
+
+**PCA-based integration algorithm review, NMF model proposal and scHi-C + scRNA-seq integration | Graduate Research Assistant**, MD Anderson Cancer Center, Houston, TX, United States [*10/2024 – Present*]{style="float:right"}
+
+*	Developed and evaluated statistical methods for integrating scHi-C and scRNA-seq datasets from mouse brain.
+*	Implemented supervised PCA, reciprocal PCA, and non-negative matrix factorization (NMF) for multimodal integration.
+*	Applied Seurat pipelines and scGAD transformation for single-cell 3D chromatin data preprocessing.
+*	Future work includes combining NMF and anchor mapping for improved single-cell multi-omics integration.
+                                                                                              
+**BMI, Hypertension, and Cardiovascular Biomarkers: A Multivariate Analysis of the Framingham Study | Graduate Research Assistant**,  Houston, TX, United States [*04/2025-05/2025*]{style="float:right"}
+
+* Applied MANOVA, Hotelling’s T², and MANCOVA to Framingham Heart Study data (n = 3,828).
+*	Identified significant associations of BMI and hypertension with cholesterol, glucose, and heart rate.
+*	Demonstrated independent and additive effects of obesity and hypertension on cardiovascular risk profiles.
+
+
+**Predicting Methylation from Sequence and Gene Expression Using Deep Learning Methods | Research Assistant**, New York, NY, United States [*06/2023 - 05/2024*]{style="float:right"}
 
 * Developed deep learning models that can accurately predict DNA methylation patterns based on genomic sequence and gene expression data
 *	Utilized Python and Columbia University’s research computing resources to test, evaluate, and refine deep learning models, ensuring optimal performance and reliability
 
-**Trends in Hypertension Control and Management Disparities in U.S. Adults: A NHANES Analysis from 1999-2020 | Graduate Researcher | [Report](./resources/ENAR2024_Project_report.pdf) | [GitHub](https://github.com/wuyiying2018/ENAR-DataFest) | [Video](https://www.youtube.com/watch?v=B0P4ieC4JbQ)**, New York,  United States [*12/2023 - 1/2024*]{style="float:right"}
+**Trends in Hypertension Control and Management Disparities in U.S. Adults: A NHANES Analysis from 1999-2020 | Graduate Researcher | [Report](./resources/ENAR2024_Project_report.pdf) | [GitHub](https://github.com/wuyiying2018/ENAR-DataFest) | [Video](https://www.youtube.com/watch?v=B0P4ieC4JbQ)**, New York, NY, United States [*12/2023 - 1/2024*]{style="float:right"}
 
 * Utilized National Health and Nutrition Examination Survey (NHANES) data spanning 1999-2020 to investigate trends in stage 2 hypertension management among U.S. adults.
 * Examined prevalence, awareness, and medication use related to hypertension, incorporating demographic factors and comorbidities as covariates in logistic regression models.
 * Employed multiple imputation techniques to address missing data and adjusted for survey cycle weights.
 
 
-**Analysis of Homelessness Crisis in California | Graduate Researcher | [Website](https://yuqingliu6.github.io/california_homelessness.io/index.html) | [GitHub](https://github.com/yuqingliu6/california_homelessness.io)**, New York,  United States [*10/2023 - 12/2023*]{style="float:right"}
+**Analysis of Homelessness Crisis in California | Graduate Researcher | [Website](https://yuqingliu6.github.io/california_homelessness.io/index.html) | [GitHub](https://github.com/yuqingliu6/california_homelessness.io)**, New York, NY, United States [*10/2023 - 12/2023*]{style="float:right"}
 
 * Analyzed two key datasets: the first capturing hospital encounters of California's homeless from 2019-2020, and the second providing demographic insights into those accessing homeless services from 2017-2023, to decipher trends in homelessness and healthcare utilization.
 * Utilized Exploratory Data Analysis (EDA) and a Shiny App to identify demographic trends in California's homelessness services
